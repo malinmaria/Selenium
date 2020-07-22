@@ -11,6 +11,17 @@ class TestHomePage(unittest.TestCase):
     def test_openHP(self):
         print("Title is " + self.driver.title)
         assert self.driver.title == "Penn Medicine Cosmetic Services – Penn Cosmetics"
+        self.driver.find_element_by_class_name('hp-hero')
+        self.driver.find_element_by_id('pcmaincontent_0_divAwards')
+        self.driver.find_element_by_class_name('thumb-grid')
+        self.driver.find_element_by_id('pcmaincontent_0_rptMission_imgMissionItem_0')
+        self.driver.find_element_by_id('pcmaincontent_0_rptMission_imgMissionItem_1')
+        self.driver.find_element_by_id('pcmaincontent_0_rptMission_imgMissionItem_2')
+        self.driver.find_element_by_class_name('hero__img')
+        self.driver.find_element_by_class_name('story-hero__banner')
+        self.driver.find_element_by_class_name('form-callout')
+
+
 
     def test_navLinks(self):
         # Procedures > Skin
@@ -21,6 +32,7 @@ class TestHomePage(unittest.TestCase):
         self.driver.find_element_by_id("ctl05_rptPrimaryNav_rptSecondaryNav_0_lnkSecondaryNavItem_3").click()
         assert self.driver.title == "Skin Care Treatments – Penn Cosmetics"
         # Why Penn > Anti-Aging Lab
+        self.driver.implicitly_wait(3)
         self.driver.find_element_by_id("ctl05_rptPrimaryNav_spNavItemTitle_1").click()
         self.driver.find_element_by_id("ctl05_rptPrimaryNav_spNavItemTitle_1").click()
         assert self.driver.title == "The Penn Cosmetic Surgery Difference – Penn Cosmetics"
@@ -49,7 +61,9 @@ class TestHomePage(unittest.TestCase):
         self.driver.find_element_by_id('pcmaincontent_0_rptServiceCategory_lnkServiceCategory_2').click()
         assert self.driver.title == "Body Contouring Services – Penn Cosmetics"
         # back Home then click breast button
+        self.driver.implicitly_wait(3)
         self.driver.find_element_by_link_text("Cosmetic Home").click()
+        self.driver.implicitly_wait(3)
         self.driver.find_element_by_id('pcmaincontent_0_rptServices_hypService_0').click()
         assert self.driver.title == "Breast Cosmetic Services – Penn Cosmetics"
         self.driver.find_element_by_class_name("nav__level1-toggle-text").click()
