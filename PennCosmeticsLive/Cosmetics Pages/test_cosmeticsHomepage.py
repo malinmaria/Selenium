@@ -72,7 +72,8 @@ class TestHomePage(unittest.TestCase):
 
 
     def test_consultReqCTA(self):
-        self.driver.find_element_by_id("ctl06_spButton").click()
+        self.driver.find_element_by_id('ctl06_spButton').click()
+        assert self.driver.title == "Request Cosmetic Services Consultation – Penn Cosmetics"
 
 
     def tearDown(self):
