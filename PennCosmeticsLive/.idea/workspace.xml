@@ -28,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/PennAutomation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test_apptRequestForm1.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -36,7 +36,7 @@
       <recent name="C:\Users\malin.nemergut\PycharmProjects\PennCosmeticsLive\Cosmetics Pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_cosmeticsHomepage (1)">
+  <component name="RunManager" selected="Python tests.Unittests in test_consultRequestForm.py">
     <configuration name="test_apptRequestForm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PennCosmeticsLive" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +121,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_consultRequestForm.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PennCosmeticsLive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cosmetics Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Cosmetics Pages/test_consultRequestForm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_consultRequestForm.py" />
+        <item itemvalue="Python.test_apptRequestForm" />
         <item itemvalue="Python.test_cosmeticsHomepage (1)" />
         <item itemvalue="Python.test_homepage" />
-        <item itemvalue="Python.test_apptRequestForm" />
         <item itemvalue="Python.test_cosmeticsHomepage" />
       </list>
     </recent_temporary>
@@ -144,51 +159,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="138" key="FileChooserDialogImpl" timestamp="1595209856064">
+    <state x="480" y="138" key="FileChooserDialogImpl" timestamp="1595815031442">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="138" key="FileChooserDialogImpl/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595016497937" />
-    <state x="480" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595209856064" />
-    <state width="1308" height="174" key="GridCell.Tab.0.bottom" timestamp="1595430187756">
+    <state x="480" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595815031442" />
+    <state width="1308" height="199" key="GridCell.Tab.0.bottom" timestamp="1595815062058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187756" />
-    <state width="1308" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595360673498" />
-    <state width="1308" height="174" key="GridCell.Tab.0.center" timestamp="1595430187755">
+    <state width="1308" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595815062058" />
+    <state width="1308" height="199" key="GridCell.Tab.0.center" timestamp="1595815062057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187754" />
-    <state width="1308" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595360673498" />
-    <state width="1308" height="174" key="GridCell.Tab.0.left" timestamp="1595430187754">
+    <state width="1308" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595815062057" />
+    <state width="1308" height="199" key="GridCell.Tab.0.left" timestamp="1595815062057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187754" />
-    <state width="1308" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595360673498" />
-    <state width="1308" height="174" key="GridCell.Tab.0.right" timestamp="1595430187755">
+    <state width="1308" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595815062057" />
+    <state width="1308" height="199" key="GridCell.Tab.0.right" timestamp="1595815062057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187755" />
-    <state width="1308" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595360673498" />
-    <state width="1308" height="174" key="GridCell.Tab.1.bottom" timestamp="1595430187759">
+    <state width="1308" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595815062057" />
+    <state width="1308" height="199" key="GridCell.Tab.1.bottom" timestamp="1595815061976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187759" />
-    <state width="1308" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595299803543" />
-    <state width="1308" height="174" key="GridCell.Tab.1.center" timestamp="1595430187759">
+    <state width="1308" height="199" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595815061976" />
+    <state width="1308" height="199" key="GridCell.Tab.1.center" timestamp="1595815061975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187759" />
-    <state width="1308" height="174" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595299803542" />
-    <state width="1308" height="174" key="GridCell.Tab.1.left" timestamp="1595430187759">
+    <state width="1308" height="199" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595815061975" />
+    <state width="1308" height="199" key="GridCell.Tab.1.left" timestamp="1595815061975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187758" />
-    <state width="1308" height="174" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595299803542" />
-    <state width="1308" height="174" key="GridCell.Tab.1.right" timestamp="1595430187759">
+    <state width="1308" height="199" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595815061975" />
+    <state width="1308" height="199" key="GridCell.Tab.1.right" timestamp="1595815061976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187759" />
-    <state width="1308" height="174" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595299803542" />
+    <state width="1308" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595815061976" />
     <state x="201" y="13" key="SettingsEditor" timestamp="1595178221837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -197,5 +212,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="369" y="254" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595768778607" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
