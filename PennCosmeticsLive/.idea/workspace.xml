@@ -28,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test_apptRequestForm1.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test_bioDrSerletti.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -36,7 +36,7 @@
       <recent name="C:\Users\malin.nemergut\PycharmProjects\PennCosmeticsLive\Cosmetics Pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_consultRequestForm.py">
+  <component name="RunManager" selected="Python tests.Unittests in test_teamBio.py">
     <configuration name="test_apptRequestForm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PennCosmeticsLive" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,67 +58,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_cosmeticsHomepage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_teamBio.TeamBioPages.test_bioSerletti" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="PennCosmeticsLive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cosmetics Pages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cosmetics Pages/test_cosmeticsHomepage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_teamBio.TeamBioPages.test_bioSerletti&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_cosmeticsHomepage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_teamBio.TeamBioPages.test_viewProfLink" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="PennCosmeticsLive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cosmetics Pages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\malin.nemergut\Desktop\Selenium\Selenium\PennCosmeticsLive\Cosmetics Pages\test_cosmeticsHomepage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_homepage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PennCosmeticsLive" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../test_homepage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_teamBio.TeamBioPages.test_viewProfLink&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in test_consultRequestForm.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -135,13 +100,27 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_teamBio.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="PennCosmeticsLive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cosmetics Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Cosmetics Pages/test_teamBio.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_teamBio.py" />
+        <item itemvalue="Python tests.Unittests for test_teamBio.TeamBioPages.test_viewProfLink" />
+        <item itemvalue="Python tests.Unittests for test_teamBio.TeamBioPages.test_bioSerletti" />
         <item itemvalue="Python tests.Unittests in test_consultRequestForm.py" />
         <item itemvalue="Python.test_apptRequestForm" />
-        <item itemvalue="Python.test_cosmeticsHomepage (1)" />
-        <item itemvalue="Python.test_homepage" />
-        <item itemvalue="Python.test_cosmeticsHomepage" />
       </list>
     </recent_temporary>
   </component>
@@ -159,51 +138,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="138" key="FileChooserDialogImpl" timestamp="1595815031442">
+    <state x="480" y="138" key="FileChooserDialogImpl" timestamp="1596375148104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="138" key="FileChooserDialogImpl/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595016497937" />
-    <state x="480" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595815031442" />
-    <state width="1308" height="199" key="GridCell.Tab.0.bottom" timestamp="1595815062058">
+    <state x="480" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596375148104" />
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1596379806982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187756" />
-    <state width="1308" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595815062058" />
-    <state width="1308" height="199" key="GridCell.Tab.0.center" timestamp="1595815062057">
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596379806982" />
+    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1596379806982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187754" />
-    <state width="1308" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595815062057" />
-    <state width="1308" height="199" key="GridCell.Tab.0.left" timestamp="1595815062057">
+    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596379806982" />
+    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1596379806982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187754" />
-    <state width="1308" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595815062057" />
-    <state width="1308" height="199" key="GridCell.Tab.0.right" timestamp="1595815062057">
+    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596379806982" />
+    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1596379806982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187755" />
-    <state width="1308" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595815062057" />
-    <state width="1308" height="199" key="GridCell.Tab.1.bottom" timestamp="1595815061976">
+    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596379806982" />
+    <state width="1345" height="199" key="GridCell.Tab.1.bottom" timestamp="1596379806882">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187759" />
-    <state width="1308" height="199" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595815061976" />
-    <state width="1308" height="199" key="GridCell.Tab.1.center" timestamp="1595815061975">
+    <state width="1345" height="199" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596379806882" />
+    <state width="1345" height="199" key="GridCell.Tab.1.center" timestamp="1596379806881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187759" />
-    <state width="1308" height="199" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595815061975" />
-    <state width="1308" height="199" key="GridCell.Tab.1.left" timestamp="1595815061975">
+    <state width="1345" height="199" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596379806881" />
+    <state width="1345" height="199" key="GridCell.Tab.1.left" timestamp="1596379806881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187758" />
-    <state width="1308" height="199" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595815061975" />
-    <state width="1308" height="199" key="GridCell.Tab.1.right" timestamp="1595815061976">
+    <state width="1345" height="199" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596379806881" />
+    <state width="1345" height="199" key="GridCell.Tab.1.right" timestamp="1596379806881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1308" height="174" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-461.1920.1040@0.0.1366.728" timestamp="1595430187759" />
-    <state width="1308" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595815061976" />
+    <state width="1345" height="199" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596379806881" />
     <state x="201" y="13" key="SettingsEditor" timestamp="1595178221837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
